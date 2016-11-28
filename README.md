@@ -4,11 +4,9 @@ A collection of 35,126 tiny (11 bytes) files, each with a unique extension, such
 
 Files are broken down into separate folders per letter of the alphabet. Each folder therefore contains 1,351 files. 
 
-![File1](winExpl.png)
-
-<!--github linguist-->
-
 Files created courtesy of [Files For Every Extension Creator](https://github.com/GregTrevellick/FilesForEveryExtensionCreator).
+
+![File1](winExpl.png)
 
 ## Features
 
