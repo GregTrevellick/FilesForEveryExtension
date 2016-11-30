@@ -18,3 +18,4 @@ An unexpected by-product is the interesting GitHub linguist interpretation of th
 
 ## License
 [MIT](/LICENSE.txt)
+[![](https://img.shields.io/github/license/gittools/gitlink.svg)](https://github.com/GregTrevellick/FilesForEveryExtension/blob/master/LICENCE)
