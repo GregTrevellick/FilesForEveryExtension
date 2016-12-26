@@ -10,13 +10,13 @@ Files are broken down into separate folders per letter of the alphabet. Each fol
 
 Files created using [Files For Every Extension Creator](https://github.com/GregTrevellick/FilesForEveryExtensionCreator).
 
-![File1](winExpl.png)
+![](winExpl.png)
 
 ## Features
 
 An unexpected by-product is the interesting GitHub linguist interpretation of the different programming languages used by the thousands of files.
 
-![Git Hub Linguist](gitHubLinguist.png)
+![](gitHubLinguist.png)
 
 ## License
 [MIT](/LICENSE.txt)
