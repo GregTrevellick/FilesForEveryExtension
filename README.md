@@ -1,6 +1,6 @@
 # Files For Every Extension
 
-[![](https://img.shields.io/github/license/gittools/gitlink.svg)](https://github.com/GregTrevellick/FilesForEveryExtension/blob/master/LICENCE.md)
+[![Licence](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
 A collection of 35,126 tiny (11 bytes) files, each with a unique extension, such as xxx.AAA, xxx.AAB, xxx.AAC through to xxx.ZZZ.
 
@@ -19,4 +19,4 @@ An unexpected by-product is the interesting GitHub linguist interpretation of th
 ![](ReadMeScreenShot_GitHubLinguist.png)
 
 ## License
-[MIT](/LICENSE.md)
+[MIT](/LICENSE.txt)
